@@ -18,10 +18,9 @@
 }
 
 .header-name a{
-  margin: 0 14px 0 20px;
   font-size: 16px;
+  color: #FAFAFA;
   text-decoration: none;
-  color: #fafafa;
 }
 
 .create-room {
@@ -88,7 +87,7 @@
   overflow: scroll;
 }
 
-.all-message {
+.message {
   margin: 10px 0;
 }
 
@@ -117,7 +116,7 @@
   margin-bottom: 40px;
 }
 
-.chat-footer {
+.form {
   background-color: #dddddd;
   height: 90px;
   padding: 20px 40px;
